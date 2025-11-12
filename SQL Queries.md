@@ -134,6 +134,6 @@ These SQL statements provide practical examples to help you learn and understand
 ### 🧩 Author
 Created as a beginner-friendly reference to learn and experiment with SQL commands.
 
----
+
 
 
